@@ -1,4 +1,7 @@
+(Screenshots of Unit tests - in the VisualStudio Code terminal using the React testing library - and UI Integration tests - in the Cypress framework - passing are added at the end of this README.md file)
+
 ##Set Up
+
 To install project dependencies: `npm install`
 To run the server: `npm start`
 To view application visit 'http://localhost:3000'
